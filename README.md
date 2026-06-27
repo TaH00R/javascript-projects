@@ -7,5 +7,5 @@ A collection of small JavaScript projects built while learning and experimenting
 - Cafe
 - Fireworks
 - Flappy Bird
-
+- Matrix Rain
 More projects coming soon!
